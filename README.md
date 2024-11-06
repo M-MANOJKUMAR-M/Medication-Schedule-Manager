@@ -86,7 +86,7 @@ Ensure that the following are installed:
    `npm install express mongoose bcrypt jsonwebtoken cors body-parser dotenv axios`
 10. Install Babel plugin (for private property support):  
     `npm install --save-dev @babel/plugin-proposal-private-property-in-object`
-###If you want to install all dependency simple run the Command
+ ##  If you want to install all dependency simple run the Command
 `npm install`
 
 ---
